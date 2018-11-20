@@ -10,3 +10,4 @@ Edit from remote-test-branch #Also from the local ws
 To check rebase option
 To check rebase again
 COmmit1 to check rebase
+commit2 to cehck rebase
